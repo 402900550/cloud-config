@@ -2,3 +2,5 @@ test:
   config:
     kkk: 2323222222222222222
     hui: kkjlkjlkjl
+    port1: 9090
+    prot2: 8888
