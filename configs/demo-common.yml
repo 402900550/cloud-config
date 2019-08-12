@@ -1,11 +1,11 @@
-spring:
-  cloud:
-    stream:
-      kafka:
-        binder:
-          brokers: 127.0.0.1:9092
-          auto-create-topics: true
-          auto-add-partitions: true
-          min-partition-count: 1
+#spring:
+#  cloud:
+#    stream:
+#      kafka:
+#        binder:
+#          brokers: 127.0.0.1:9092
+#          auto-create-topics: true
+#          auto-add-partitions: true
+#          min-partition-count: 1
 
 
